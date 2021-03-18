@@ -1,0 +1,11 @@
+# Requirements without version specifications
+matplotlib
+notebook
+numpy
+pandas
+scipy
+seaborn
+sklearn
+
+# Requirements with version specifications
+nbconvert<6 # v6 causes an error with the current version of nbextensions
